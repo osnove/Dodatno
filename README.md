@@ -1,4 +1,18 @@
-# Dodatno
+# OSNOVE ELEKTROTEHNIKE Z JUPYTROM
 
-V tem Gitu so Jupyter zvezki (notebook), ki so namenjeni dodatnemu študijskemu materialu pri predmetu Osnove elektrotehnike. ...
+## Uvod
+Ta Git je namenjen dodatnemu materialu za študij predmetov Osnove elektrotehnike 1 in 2. Ta material je v obliki Jupyter zvezkov, ki vključujejo tako tekst, kot tudi enačbe in ključno - računalniško kodo. Ta je v obliki kratkih (ali daljših) programskih stavkov v programskem jeziku Python, ki omogočajo enostavno realizacijo bistvenih potreb predmeta - izračune in vizualizacijo. 
+
+Zakaj Jupyter, zakaj Python? Če bi malo pobrskali po spletu, bi ugotovili, da Python postaja programsko orodje št. 1 na področju tehniških vedah in popolnoma prevladuje na področju umetne inteligence, obdelave podatkov, ... Jupyter pa je okolje, ki omogoča integracijo teksta v html formatu z Latex formulami in Python kode. Resen konkurent Juyptru bi lahko bil Matlab, ki se tudi zelo pogosto uporablja v tehniki. Je morda celo malo bolj preprost za uporabo, ni pa brezplačen niti ne omogoča Juypter oblike. Poleg tega Matlab ni ravno pravi programski jezik, medtem ko Python brez dvoma je - seveda s posebnostmi, ki jih ima vsak programski jezik. 
+
+V našem primeru bomo Python uporabili bolj kot skriptni jezik, podobno kot Matlab, torej predznanje programiranja za uporabo Jupyter zvezkov ni potrebno. Ravno nasprotno, zvezki so koncipirani tako, da se sproti naučite tako osnovnih ukazov, ki omogočajo izračune in izrise, kot tudi nekaj osnov programiranja - for zanke, if stavki, funkcije in podobne zadeve.
+
+Sploh pa, vsi relevantni izračuni so v zvezkih že narejeni. Lahko le prelistavate zvezke in študirate koncepte električnega in magnetnega polja ter vezij, skratka snov, ki jo obravnavata predmeta OE1 in OE2. Vizualizacija je ključna za pravilno razumevanje osnovnih konceptov. Poleg tega ste pa lahko tudi sami pri tem še bolj aktivni. Če imate Jupyter naložen na svojem računalniku ali pa uporabljate način oblačnega programiranja, lahko zvezke ne le prebirate pač pa tudi spreminjate, dopišete svojo kodo ali le spremenite parametre itd. In s tem se sproti učite tako elektrotehnike kot programiranja. 
+
+In kot že rečeno, Jupyter in Python se uporablja tudi v praksi, tako v raziskovalnem delu kot v industriji. Zato vaše aktivnosti zagotovo ne bodo zaman in jih boste s pridom uporabili tudi v višjih letnikih in tudi kasneje. 
+
+Še to: zaenkrat zvezki ne pokrivajo celotne snovi OE1 in OE2. Pravzaprav le večji del vezij pri izmeničnih signalih. Vendar, glavno je razumeti princip, če znaš narisati Tok in Naboj kot funkcijo časa, znaš narisati tudi Delovno moč kot funkcijo frekvence itd. 
+
+Nekaj splošnega o Jupytru, kako zaganjati zvezke, si preberite v 
+
 
