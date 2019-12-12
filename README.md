@@ -31,10 +31,10 @@ https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipyn
 * **OE:** Prehodni pojav. Prikaz numeričnega izračuna. **Jupyter:** Prikaz uporabe numeričnih metod z odeint. 
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb
 
-* **OE:** Prehodni pojav RLC vezij - numerično. **Jupyter:** Prikaz uporabe analitičnih in numeričnih metod za reševanje diferencialnih enačb drugega red. 
+* **OE:** Prehodni pojav RLC vezij - analitično in numerično. **Jupyter:** Prikaz uporabe analitičnih in numeričnih metod za reševanje diferencialnih enačb drugega red. 
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb
 
-
+<a href=\"https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 
 
