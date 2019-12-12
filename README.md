@@ -3,7 +3,7 @@
 <center> Dejan Križaj, 2019 <\center>
 
 ## Uvod
-Ta Git je namenjen dodatnemu materialu za študij predmetov Osnove elektrotehnike 1 in 2. Ta material je v obliki Jupyter zvezkov, ki vključujejo tako tekst, kot tudi enačbe in ključno - računalniško kodo. Ta je v obliki kratkih (ali daljših) programskih stavkov v programskem jeziku Python, ki omogočajo enostavno realizacijo bistvenih potreb predmeta - izračune in vizualizacijo. 
+Git je namenjen dodatnemu materialu za študij predmetov Osnove elektrotehnike 1 in 2. Material je v obliki Jupyter zvezkov, ki vključujejo tako tekst, kot tudi enačbe in ključno - računalniško kodo. Ta je v obliki kratkih (ali daljših) programskih stavkov v programskem jeziku Python, ki omogočajo enostavno realizacijo bistvenih potreb predmeta - izračune in vizualizacijo. 
 
 Zakaj Jupyter, zakaj Python? Če bi malo pobrskali po spletu, bi ugotovili, da Python postaja programsko orodje št. 1 na področju tehniških ved in popolnoma prevladuje na področju umetne inteligence, obdelave podatkov, ... Jupyter pa je okolje, ki omogoča integracijo teksta v html formatu z Latex formulami in Python kodo. Resen konkurent Juyptru bi lahko bil Matlab, ki se tudi zelo pogosto uporablja v tehniki. Je morda celo malo bolj preprost za uporabo, ni pa brezplačen niti ne omogoča Juypter oblike. Poleg tega Matlab ni ravno pravi programski jezik, medtem ko Python brez dvoma je - seveda s posebnostmi, ki jih ima vsak programski jezik. 
 
@@ -20,11 +20,23 @@ https://github.com/osnove/Dodatno/blob/master/Uporaba_Jupitra.ipynb
 
 ## Osnove elektrotehnike 1
 
-* OE: Prikaz povezave med tokom in nabojem. Jupyter: Prvi izračun in izris z Jupytrom. Prikaz različnih možnih izrisov.   
+* **OE:** Prikaz povezave med tokom in nabojem. **Jupyter:** Prvi izračun in izris z Jupytrom. Prikaz različnih možnih izrisov. Uporaba funkcije - prvič.  
 https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb
 
 
 ## Osnove elektrotehnike 2
+* **OE:** Prehodni pojav. Prikaz analitičnega izračuna. **Jupyter:** Prikaz simbolnega računanja z uporabo modula Sympy.  
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb
+
+* **OE:** Prehodni pojav. Prikaz numeričnega izračuna. **Jupyter:** Prikaz uporabe numeričnih metod z odeint. 
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb
+
+* **OE:** Prehodni pojav RLC vezij - numerično. **Jupyter:** Prikaz uporabe analitičnih in numeričnih metod za reševanje diferencialnih enačb drugega red. 
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb
+
+
+
+
 
 ## Dodatno
 
