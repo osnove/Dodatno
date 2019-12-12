@@ -21,12 +21,12 @@ https://github.com/osnove/Dodatno/blob/master/Uporaba_Jupitra.ipynb
 ## Osnove elektrotehnike 1
 
 * **OE:** Prikaz povezave med tokom in nabojem. **Jupyter:** Prvi izračun in izris z Jupytrom. Prikaz različnih možnih izrisov. Uporaba funkcije - prvič.  
-https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb
+https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb [![IMAGE ALT TEXT HERE](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb)
 
 
 ## Osnove elektrotehnike 2
 * **OE:** Prehodni pojav. Prikaz analitičnega izračuna. **Jupyter:** Prikaz simbolnega računanja z uporabo modula Sympy.  
-https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![IMAGE ALT TEXT HERE](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb)
 
 * **OE:** Prehodni pojav. Prikaz numeričnega izračuna. **Jupyter:** Prikaz uporabe numeričnih metod z odeint. 
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb
