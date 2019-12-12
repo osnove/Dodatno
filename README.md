@@ -21,28 +21,48 @@ https://github.com/osnove/Dodatno/blob/master/Uporaba_Jupitra.ipynb
 ## Osnove elektrotehnike 1
 
 * **OE:** Prikaz povezave med tokom in nabojem. **Jupyter:** Prvi izračun in izris z Jupytrom. Prikaz različnih možnih izrisov. Uporaba funkcije - prvič.  
-https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb [![IMAGE ALT TEXT HERE](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb)
+https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb [![oe1_Q_i](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb)
 
 
 ## Osnove elektrotehnike 2
 * **OE:** Prehodni pojav. Prikaz analitičnega izračuna. **Jupyter:** Prikaz simbolnega računanja z uporabo modula Sympy.  
-https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![IMAGE ALT TEXT HERE](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb)
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![Primer_diff_enacbe_analiticno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb)
 
 * **OE:** Prehodni pojav. Prikaz numeričnega izračuna. **Jupyter:** Prikaz uporabe numeričnih metod z odeint. 
-https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb  https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![Primer_diff_enacbe_numericno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb)
 
 * **OE:** Prehodni pojav RLC vezij - analitično in numerično. **Jupyter:** Prikaz uporabe analitičnih in numeričnih metod za reševanje diferencialnih enačb drugega red. 
-https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb   [![Primer_diff_enacbe_analiticno-numericno_RLC](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb)
 
-<a href=\"https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb\" target=\"_parent\">
-  <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+* **OE:** Obravnava vezij s kompleksnim računom. Izris kompleksorjev v kompleksni ravnini. **Jupyter:** Uporaba kompleksnega računa. Zapis funkcije v modulu in njena uporaba.   
+https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb  [![Moc_izmenicni_signali](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+* **OE:** Moč pri izmeničnih signalih. Časovni potek in prehod v obravnavo s kompleksorji. Navidezna, delovna in jalova moč. Dodatno: Lock-in metoda. **Jupyter:** Uporaba kompleksnega računa. Uporaba modula Pandas za delo s tabelami.  
+https://github.com/osnove/Dodatno/blob/master/Obravnava_vezij_kompleksni_racun.ipynb
+ [![Obravnava_vezij_kompleksni_racun](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Obravnava_vezij_kompleksni_racun.ipynb)
 
+* **OE:** Resonančni pojav: obravnava v časovnem in frekvenčnem prostoru. Resonančna frekvenca, bočne frekvence, pasovna širina, kvaliteta vezja. **Jupyter:** Uporaba kompleksnega računa. Uporaba interaktivnih gradnikov (widgets). 
+https://github.com/osnove/Dodatno/blob/master/Obravnava_resonancnega_pojava.ipynb
+ [![Obravnava_resonancnega_pojava](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Obravnava_resonancnega_pojava.ipynb)
+ 
+ * **OE:** Frekvenčne lastnosti tuljave, kondenzatorja in upora - analiza realnih elementov. Spice modeli. Kvaliteta, ekvivalentna serijska upornost ESR, itd. **Jupyter:**  
+https://github.com/osnove/Dodatno/blob/master/Frekven%C4%8Dne_lastnosti_upora_kondenzatorja_tuljave.ipynb
+ [![Frekven%C4%8Dne_lastnosti_upora_kondenzatorja_tuljave](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Frekven%C4%8Dne_lastnosti_upora_kondenzatorja_tuljave.ipynb)
+ 
+ * **OE:** Nadgradnja analize impedance vezij - Impedančna spektroskopija. Uporaba v biotehnologiji in medicini. **Jupyter:** Uporaba modula Scipy za prileganje krivulje podatkom (fitanje po domače). 
+https://github.com/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb
+ [![Impedancna_spektroskopija](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb)
 
 ## Dodatno
 
-[![IMAGE ALT TEXT HERE](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb)
+ * **OE:** Izdelava pravokotnega periodičnega signala. izdelava odvedljivega pravokotnega signala. Fourierova analiza (spekter). **Jupyter:** Uporaba modula scipy za izdelavo pravokotnega periodičnega signala.  Funkcije, for zanke, if stavki itd. FFT (Fast Fourier Transform za spektralno analizo signala) 
+https://github.com/osnove/Dodatno/blob/master/Zglajen_pravokoten_signal.ipynb
+ [![Zglajen_pravokoten_signal](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Zglajen_pravokoten_signal.ipynb)
 
+ * **OE:** Dodatni primeri uporabe modula Matplotlib za izris grafov **Jupyter:** Matplotlib 
+https://github.com/osnove/Dodatno/blob/master/primer%20Matplotlib.ipynb
+ [![primer%20Matplotlib](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/primer%20Matplotlib.ipynb)
 
-
+ * **OE:** del impedančne spektroskopije **Jupyter:** Uporaba modula BeautifulSoup za zajem informacij (tabel, itd) iz spletnih strani in njihova obdelava z modulom Pandas. Uporaba interaktivnih gradnikov: spustni seznam, ..
+https://github.com/osnove/Dodatno/blob/master/BeautifulSoup_Pandas.ipynb
+ [![BeautifulSoup_Pandas](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/BeautifulSoup_Pandas.ipynb)
