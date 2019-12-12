@@ -1,5 +1,7 @@
 # OSNOVE ELEKTROTEHNIKE Z JUPYTROM
 
+<center> Dejan Križaj, 2019 <\center>
+
 ## Uvod
 Ta Git je namenjen dodatnemu materialu za študij predmetov Osnove elektrotehnike 1 in 2. Ta material je v obliki Jupyter zvezkov, ki vključujejo tako tekst, kot tudi enačbe in ključno - računalniško kodo. Ta je v obliki kratkih (ali daljših) programskih stavkov v programskem jeziku Python, ki omogočajo enostavno realizacijo bistvenih potreb predmeta - izračune in vizualizacijo. 
 
