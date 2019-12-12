@@ -29,13 +29,13 @@ https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb [![oe1_Q_i](https://
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![Primer_diff_enacbe_analiticno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb)
 
 * **OE:** Prehodni pojav. Prikaz numeričnega izračuna. **Jupyter:** Prikaz uporabe numeričnih metod z odeint. 
-https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb  https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![Primer_diff_enacbe_numericno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb)
+https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb  [![Primer_diff_enacbe_numericno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb)
 
 * **OE:** Prehodni pojav RLC vezij - analitično in numerično. **Jupyter:** Prikaz uporabe analitičnih in numeričnih metod za reševanje diferencialnih enačb drugega red. 
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb   [![Primer_diff_enacbe_analiticno-numericno_RLC](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb)
 
 * **OE:** Obravnava vezij s kompleksnim računom. Izris kompleksorjev v kompleksni ravnini. **Jupyter:** Uporaba kompleksnega računa. Zapis funkcije v modulu in njena uporaba.   
-https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb  [![Moc_izmenicni_signali](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb)
+https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb  [![Moc_izmenicni_signali](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb)
 
 * **OE:** Moč pri izmeničnih signalih. Časovni potek in prehod v obravnavo s kompleksorji. Navidezna, delovna in jalova moč. Dodatno: Lock-in metoda. **Jupyter:** Uporaba kompleksnega računa. Uporaba modula Pandas za delo s tabelami.  
 https://github.com/osnove/Dodatno/blob/master/Obravnava_vezij_kompleksni_racun.ipynb
