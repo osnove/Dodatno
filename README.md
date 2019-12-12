@@ -34,11 +34,15 @@ https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb
 * **OE:** Prehodni pojav RLC vezij - analitično in numerično. **Jupyter:** Prikaz uporabe analitičnih in numeričnih metod za reševanje diferencialnih enačb drugega red. 
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb
 
-<a href=\"https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+<a href=\"https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb\" target=\"_parent\">
+  <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 ## Dodatno
+
+[![IMAGE ALT TEXT HERE](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/oe1_Q_i.ipynb)
 
 
 
