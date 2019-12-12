@@ -20,6 +20,10 @@ https://github.com/osnove/Dodatno/blob/master/Uporaba_Jupitra.ipynb
 
 ## Osnove elektrotehnike 1
 
+* OE: Prikaz povezave med tokom in nabojem. Jupyter: Prvi izračun in izris z Jupytrom. Prikaz različnih možnih izrisov.   
+https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb
+
+
 ## Osnove elektrotehnike 2
 
 ## Dodatno
