@@ -49,6 +49,10 @@ https://github.com/osnove/Dodatno/blob/master/Obravnava_resonancnega_pojava.ipyn
 https://github.com/osnove/Dodatno/blob/master/Frekven%C4%8Dne_lastnosti_upora_kondenzatorja_tuljave.ipynb
  [![Frekven%C4%8Dne_lastnosti_upora_kondenzatorja_tuljave](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Frekven%C4%8Dne_lastnosti_upora_kondenzatorja_tuljave.ipynb)
  
+  * **OE:** Filtri. Nizkoprepustni RC filter, mejna frekvenca, Bodejev diagram, decibeli, Butterworthov filter, Digitalni filtri **Jupyter:** SciPy modul za delo s filtri 
+https://github.com/osnove/Dodatno/blob/master/Filtri.ipynb
+ [![Filtri](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Filtri.ipynb)
+ 
  * **OE:** Nadgradnja analize impedance vezij - Impedančna spektroskopija. Uporaba v biotehnologiji in medicini. **Jupyter:** Uporaba modula Scipy za prileganje krivulje podatkom (fitanje po domače). 
 https://github.com/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb
  [![Impedancna_spektroskopija](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb)
