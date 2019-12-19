@@ -35,11 +35,11 @@ https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb   [![Primer_diff_enacbe_analiticno-numericno_RLC](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno-numericno_RLC.ipynb)
 
 * **OE:** Obravnava vezij s kompleksnim računom. Izris kompleksorjev v kompleksni ravnini. **Jupyter:** Uporaba kompleksnega računa. Zapis funkcije v modulu in njena uporaba.   
-https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb  [![Moc_izmenicni_signali](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb)
-
-* **OE:** Moč pri izmeničnih signalih. Časovni potek in prehod v obravnavo s kompleksorji. Navidezna, delovna in jalova moč. Dodatno: Lock-in metoda. **Jupyter:** Uporaba kompleksnega računa. Uporaba modula Pandas za delo s tabelami.  
 https://github.com/osnove/Dodatno/blob/master/Obravnava_vezij_kompleksni_racun.ipynb
  [![Obravnava_vezij_kompleksni_racun](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Obravnava_vezij_kompleksni_racun.ipynb)
+
+* **OE:** Moč pri izmeničnih signalih. Časovni potek in prehod v obravnavo s kompleksorji. Navidezna, delovna in jalova moč. Dodatno: Lock-in metoda. **Jupyter:** Uporaba kompleksnega računa. Uporaba modula Pandas za delo s tabelami.  
+ https://github.com/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb  [![Moc_izmenicni_signali](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Moc_izmenicni_signali.ipynb)
 
 * **OE:** Resonančni pojav: obravnava v časovnem in frekvenčnem prostoru. Resonančna frekvenca, bočne frekvence, pasovna širina, kvaliteta vezja. **Jupyter:** Uporaba kompleksnega računa. Uporaba interaktivnih gradnikov (widgets). 
 https://github.com/osnove/Dodatno/blob/master/Obravnava_resonancnega_pojava.ipynb
