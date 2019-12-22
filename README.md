@@ -1,11 +1,11 @@
 # OSNOVE ELEKTROTEHNIKE Z JUPYTROM
 
-<center> Dejan Križaj, 2019 <\center>
+ Dejan Križaj, 2019 
 
 ## Uvod
-Git je namenjen dodatnemu materialu za študij predmetov Osnove elektrotehnike 1 in 2. Material je v obliki Jupyter zvezkov, ki vključujejo tako tekst, kot tudi enačbe in ključno - računalniško kodo. Ta je v obliki kratkih (ali daljših) programskih stavkov v programskem jeziku Python, ki omogočajo enostavno realizacijo bistvenih potreb predmeta - izračune in vizualizacijo. 
+V tem Gitu je dodaten material za študij predmetov Osnove elektrotehnike 1 in 2. Material je v obliki Jupyter zvezkov, ki vključujejo tako tekst kot tudi enačbe in ključno - računalniško kodo. Ta je v obliki kratkih (ali daljših) programskih stavkov v programskem jeziku Python, ki omogočajo enostavno realizacijo bistvenih potreb predmeta - izračune in vizualizacijo. 
 
-Zakaj Jupyter, zakaj Python? Če bi malo pobrskali po spletu, bi ugotovili, da Python postaja programsko orodje št. 1 na področju tehniških ved in popolnoma prevladuje na področju umetne inteligence, obdelave podatkov, ... Jupyter pa je okolje, ki omogoča integracijo teksta v html formatu z Latex formulami in Python kodo. Resen konkurent Juyptru bi lahko bil Matlab, ki se tudi zelo pogosto uporablja v tehniki. Je morda celo malo bolj preprost za uporabo, ni pa brezplačen niti ne omogoča Juypter oblike. Poleg tega Matlab ni ravno pravi programski jezik, medtem ko Python brez dvoma je - seveda s posebnostmi, ki jih ima vsak programski jezik. 
+Zakaj Jupyter, zakaj Python? Če bi malo pobrskali po spletu, bi ugotovili, da Python postaja programsko orodje št. 1 na področju tehniških ved in popolnoma prevladuje na področju umetne inteligence, obdelave podatkov, ... Jupyter pa je okolje, ki omogoča integracijo teksta v html (ali poenostavljenem markdown) formatu z Latex formulami in Python kodo. Resen konkurent Juyptru bi lahko bil Matlab, ki se tudi zelo pogosto uporablja v tehniki. Je morda celo malo bolj preprost za uporabo, ni pa brezplačen in tudi ne omogoča Juypter oblike. Poleg tega Matlab ni ravno pravi programski jezik, medtem ko Python brez dvoma je - seveda s posebnostmi, ki jih ima vsak programski jezik. 
 
 V našem primeru bomo Python uporabili bolj kot skriptni jezik, podobno kot Matlab, torej predznanje programiranja za uporabo Jupyter zvezkov ni potrebno. Ravno nasprotno, zvezki so koncipirani tako, da se sproti naučite tako osnovnih ukazov, ki omogočajo izračune in izrise, kot tudi nekaj osnov programiranja - for zanke, if stavki, funkcije in podobne zadeve.
 
@@ -15,7 +15,7 @@ In kot že rečeno, Jupyter in Python se uporablja tudi v praksi, tako v razisko
 
 Še to: zaenkrat zvezki ne pokrivajo celotne snovi OE1 in OE2. Pravzaprav le večji del vezij pri izmeničnih signalih. Vendar, glavno je razumeti princip, če znaš narisati Tok in Naboj kot funkcijo časa, znaš narisati tudi Delovno moč kot funkcijo frekvence itd. 
 
-Nekaj splošnega o Jupytru, kako zaganjati zvezke, si preberite v 
+Nekaj splošnega o Jupytru, kako zaganjati zvezke itd, si preberite v 
 https://github.com/osnove/Dodatno/blob/master/Uporaba_Jupitra.ipynb
 
 ## Osnove elektrotehnike 1
