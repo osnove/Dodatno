@@ -65,7 +65,7 @@ https://github.com/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb
 https://github.com/osnove/Dodatno/blob/master/Vrtilno_magnetno_polje.ipynb
  [![Vrtilno_magnetno_polje](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Vrtilno_magnetno_polje.ipynb)
  
- * **OE:** Trifazni sistemi. **Jupyter:** Izdelava animacije. 
+ * **OE:** Trifazni sistemi. **Jupyter:** 
 https://github.com/osnove/Dodatno/blob/master/Trifazni_sistemi.ipynb
  [![Vrtilno_magnetno_polje](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Trifazni_sistemi.ipynb)
  
