@@ -25,8 +25,12 @@ https://github.com/osnove/Dodatno/blob/master/oe1_Q_i.ipynb [![oe1_Q_i](https://
 
 
 ## Osnove elektrotehnike 2
+
 * **OE:** Prehodni pojav. Prikaz analitičnega izračuna. **Jupyter:** Prikaz simbolnega računanja z uporabo modula Sympy.  
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb  [![Primer_diff_enacbe_analiticno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_analiticno.ipynb)
+
+* **OE:** Periodični signali: frekvenca, faza, srednja vrednost, efektivna vrednost ... **Jupyter:** Modul SciPy za tvorjenje signalov. 
+https://github.com/osnove/Dodatno/blob/master/Periodicni_signali.ipynb  [![Periodicni_signali](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Periodicni_signali.ipynb)
 
 * **OE:** Prehodni pojav. Prikaz numeričnega izračuna. **Jupyter:** Prikaz uporabe numeričnih metod z odeint. 
 https://github.com/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb  [![Primer_diff_enacbe_numericno](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Primer_diff_enacbe_numericno.ipynb)
@@ -56,6 +60,15 @@ https://github.com/osnove/Dodatno/blob/master/Filtri.ipynb
  * **OE:** Nadgradnja analize impedance vezij - Impedančna spektroskopija. Uporaba v biotehnologiji in medicini. **Jupyter:** Uporaba modula Scipy za prileganje krivulje podatkom (fitanje po domače). 
 https://github.com/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb
  [![Impedancna_spektroskopija](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Impedancna_spektroskopija.ipynb)
+
+  * **OE:** Vrtilno magnetno polje. **Jupyter:** Izdelava animacije. 
+https://github.com/osnove/Dodatno/blob/master/Vrtilno_magnetno_polje.ipynb
+ [![Vrtilno_magnetno_polje](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Vrtilno_magnetno_polje.ipynb)
+ 
+ * **OE:** Trifazni sistemi. **Jupyter:** Izdelava animacije. 
+https://github.com/osnove/Dodatno/blob/master/Trifazni_sistemi.ipynb
+ [![Vrtilno_magnetno_polje](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osnove/Dodatno/blob/master/Trifazni_sistemi.ipynb)
+ 
 
 ## Dodatno
 
